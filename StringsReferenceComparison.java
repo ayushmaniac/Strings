@@ -1,8 +1,7 @@
-
-
-
 class StringsReferenceComparison{
 
+
+public static void main(String[] args){
 	String s1 = "Ayush";
 	String s2 = "Ayush";
 
@@ -12,6 +11,7 @@ class StringsReferenceComparison{
 	}
 	else
 	{
-		System.out.println("String references are not equal.")
+		System.out.println("String references are not equal.");
 	}
+}
 }
